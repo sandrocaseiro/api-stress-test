@@ -1,0 +1,11 @@
+java/java-mock-test_1571681322206.PublishSettings
+java/.mvn/
+netcore/PerfTest/.vs/
+java/mvnw
+java/mvnw.cmd
+netcore/PerfTest/bin/
+netcore/PerfTest/obj/
+nodejs/.vscode/
+nodejs/node_modules/
+nodejs/.deployment
+nodejs/start.sh
